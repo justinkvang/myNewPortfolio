@@ -1,4 +1,4 @@
-# myNewPortfolio
+# Justin's Portfolio
 My current portfolio that has links to my work, resume, and contact.
 
 ## Links
